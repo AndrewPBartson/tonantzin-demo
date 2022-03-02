@@ -2,6 +2,9 @@
   "name": "hello-world-armada",
   "private": false,
   "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
   "description": "Tonantzin containers / Node.js",
   "dependencies": {
     "express": "4.x"
